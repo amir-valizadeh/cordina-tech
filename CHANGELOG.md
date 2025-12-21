@@ -4,3 +4,4 @@
 - [2025-12-18] Set up TailwindCSS and PostCSS configuration
 - [2025-12-19] Add strict ESLint and Prettier formatting rules
 - [2025-12-20] Implement initial route structure
+- [2025-12-21] Develop structural MovieCard component

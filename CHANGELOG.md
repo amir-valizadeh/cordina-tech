@@ -5,3 +5,4 @@
 - [2025-12-19] Add strict ESLint and Prettier formatting rules
 - [2025-12-20] Implement initial route structure
 - [2025-12-21] Develop structural MovieCard component
+- [2025-12-23] Add loading skeletons for MovieCard

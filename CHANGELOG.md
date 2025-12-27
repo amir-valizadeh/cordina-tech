@@ -7,3 +7,4 @@
 - [2025-12-21] Develop structural MovieCard component
 - [2025-12-23] Add loading skeletons for MovieCard
 - [2025-12-25] Implement continuous infinite scroll
+- [2025-12-27] Construct reusable pagination component

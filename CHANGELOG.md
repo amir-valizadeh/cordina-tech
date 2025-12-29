@@ -8,3 +8,4 @@
 - [2025-12-23] Add loading skeletons for MovieCard
 - [2025-12-25] Implement continuous infinite scroll
 - [2025-12-27] Construct reusable pagination component
+- [2025-12-29] Build base TMDB API integration service

@@ -13,3 +13,4 @@
 - [2026-01-01] Configure Vitest environment and setup files
 - [2026-01-02] Develop unit tests for MovieCard component
 - [2026-01-04] Implement responsive CSS grid layout
+- [2026-01-06] Add Framer Motion page transitions

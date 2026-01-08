@@ -14,3 +14,4 @@
 - [2026-01-02] Develop unit tests for MovieCard component
 - [2026-01-04] Implement responsive CSS grid layout
 - [2026-01-06] Add Framer Motion page transitions
+- [2026-01-08] Refactor API service for better error handling

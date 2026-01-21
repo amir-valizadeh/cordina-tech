@@ -21,3 +21,4 @@
 - [2026-01-16] Resolve pagination state edge cases
 - [2026-01-17] Update core dependencies to latest stable versions
 - [2026-01-18] Enhance network error boundary UI
+- [2026-01-21] Remove unused legacy components

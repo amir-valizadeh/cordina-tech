@@ -23,3 +23,4 @@
 - [2026-01-18] Enhance network error boundary UI
 - [2026-01-21] Remove unused legacy components
 - [2026-01-22] Refactor global state management stores
+- [2026-01-23] Improve ARIA labels and accessibility attributes

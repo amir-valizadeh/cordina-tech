@@ -26,3 +26,4 @@
 - [2026-01-23] Improve ARIA labels and accessibility attributes
 - [2026-01-24] Write integration tests for movie listing page
 - [2026-01-26] Refine UI styling guidelines documentation
+- [2026-01-27] Create API mock handlers for test environment

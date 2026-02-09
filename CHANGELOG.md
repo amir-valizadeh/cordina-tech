@@ -34,3 +34,4 @@
 - [2026-02-05] Resolve memory leak in infinite scroll observer
 - [2026-02-06] Setup initial GitHub Actions CI workflow
 - [2026-02-07] Design and implement loading spinners
+- [2026-02-09] Normalize external API response structures

@@ -35,3 +35,4 @@
 - [2026-02-06] Setup initial GitHub Actions CI workflow
 - [2026-02-07] Design and implement loading spinners
 - [2026-02-09] Normalize external API response structures
+- [2026-02-12] Extract repeated logic into custom React hooks

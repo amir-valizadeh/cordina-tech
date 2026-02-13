@@ -36,3 +36,4 @@
 - [2026-02-07] Design and implement loading spinners
 - [2026-02-09] Normalize external API response structures
 - [2026-02-12] Extract repeated logic into custom React hooks
+- [2026-02-13] Update standard component library versions

@@ -37,3 +37,4 @@
 - [2026-02-09] Normalize external API response structures
 - [2026-02-12] Extract repeated logic into custom React hooks
 - [2026-02-13] Update standard component library versions
+- [2026-02-15] Add informative empty state for search results
